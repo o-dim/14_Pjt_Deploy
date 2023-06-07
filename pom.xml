@@ -12,7 +12,7 @@
 	    <org.springframework-version>5.3.3</org.springframework-version>
 	    <org.aspectj-version>1.9.6</org.aspectj-version>
 	    <org.slf4j-version>1.7.30</org.slf4j-version>
-	    <maven-version>3.9.1</maven-version>
+	    <maven-version>3.8.1</maven-version>
 	    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
  	</properties>
